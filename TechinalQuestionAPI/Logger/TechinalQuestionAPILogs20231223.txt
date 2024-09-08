@@ -1,0 +1,6 @@
+2023-12-23 15:20:15.537 +03:00 [INF] Starting web host
+2023-12-23 15:20:52.148 +03:00 [INF] Starting web host
+2023-12-23 15:27:36.424 +03:00 [INF] Starting web host
+2023-12-23 15:27:42.314 +03:00 [ERR] Partenr Not Found
+2023-12-23 15:28:53.792 +03:00 [INF] Partner Is Exisigt
+2023-12-23 15:28:53.976 +03:00 [INF] Db Query has been Finised with 3 items
